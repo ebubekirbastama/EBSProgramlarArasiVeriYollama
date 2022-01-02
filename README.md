@@ -1,4 +1,4 @@
 # EBS Programlar Arasi Veri Yollama
 Programı CMD ile açıp text olarak boşluk bırakarak parametre verebilirsiniz.
-Ayrıca Aşağıda bıraktığım github reposunda ise bu exeye başka programdan nasıl veri yollayabileceğinizi gösterdim.
+Ayrıca Aşağıda bıraktığım github reposunda ise bu exeye başka programdan nasıl veri yollayabileceğinizi gösterdim. <hr>
 https://github.com/ebubekirbastama/EBSProgramlarArasiVeriYollama-ProgramOrnegi-
